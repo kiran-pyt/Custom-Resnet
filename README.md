@@ -24,14 +24,3 @@ NO Annihilation
 Uses this transform -RandomCrop 32, 32 (after padding of 4) >> FlipLR >> Followed by CutOut(8, 8)
 Batch size = 512
 Use ADAM, and CrossEntropyLoss
-Target Accuracy: 90%
-NO score if your code is not modular. Your collab must be importing your GitHub package, and then just running the model. I should be able to find the custom_resnet.py model in your GitHub repo that you'd be training. 
-Once done, proceed to answer the Assignment-Solution page. 
- 
-
- 
-
- 
-
- 
-
