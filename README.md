@@ -1,4 +1,5 @@
 PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
+
 Layer1 -
 X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
 R1 = ResBlock( (Conv-BN-ReLU-Conv-BN-ReLU))(X) [128k] 
