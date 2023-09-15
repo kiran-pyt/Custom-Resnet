@@ -1,5 +1,3 @@
-# Custom-Resnet
-The following code was buit on the steps shown below  
 PrepLayer - Conv 3x3 s1, p1) >> BN >> RELU [64k]
 Layer1 -
 X = Conv 3x3 (s1, p1) >> MaxPool2D >> BN >> RELU [128k]
