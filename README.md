@@ -30,9 +30,23 @@ On the train dataset, we applied the normalisation, padding, random cutting, and
  
  ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/32351e32-df4a-46c9-a520-c3a091af8c96)
 
-  **images after applying Data Agumentation statergy**
+  **Images After Applying Data Agumentation Statergy**
 
  ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/53654f63-b443-449d-92d9-6371b9f0b597)
+
+ **Development of Model**
+
+ ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/43564cfc-8895-4e6d-b9f0-afe12cb14a29)
+
+ **Performance of the Developed model**
+
+ ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/2b567532-2812-4068-92d0-97cb948841be)
+
+
+
+
+
+ 
 
 
 
