@@ -77,6 +77,9 @@ Here's all you need to know about the One Cycle Policy:
 
 In summary, the One Cycle Policy is a learning rate scheduling technique that helps accelerate the training of neural networks, improve convergence, and enhance generalization. It has become a valuable tool for practitioners in the field of deep learning and is often used in combination with other training strategies to train more effective models.
 
+![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/a4388a83-f3d9-4c34-bb4b-0c0283e207d4)
+
+
 
 
 
