@@ -33,7 +33,7 @@ On the train dataset, we applied the normalisation, padding, random cutting, and
 
             
 
-            ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/90baf901-46c6-4109-82ef-d46ae2304407)
+          
 
 
 
