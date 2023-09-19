@@ -27,8 +27,7 @@ The goal of this project is impelement custome resenet model on the CIFAR10 dats
 On the train dataset, we applied the normalisation, padding, random cutting, and horizontal flipping data argumentation strategies.These mentioned strategies are implemented from the albumentations library.
 
  **Data Agumentation statergy**
-
-         ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/32351e32-df4a-46c9-a520-c3a091af8c96)
+ ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/32351e32-df4a-46c9-a520-c3a091af8c96)
 
 
             
