@@ -28,8 +28,7 @@ On the train dataset, we applied the normalisation, padding, random cutting, and
 
  **Data Agumentation statergy**
 
-
-            ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/3c5bd9c9-28bc-4bb0-8b8c-f2244a776451)
+        ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/3c5bd9c9-28bc-4bb0-8b8c-f2244a776451)
 
             
 
