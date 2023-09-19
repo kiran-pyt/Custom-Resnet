@@ -79,7 +79,8 @@ In summary, the One Cycle Policy is a learning rate scheduling technique that he
 
 ![image](https://github.com/kiran-pyt/Custom-Resnet/assets/120393460/a4388a83-f3d9-4c34-bb4b-0c0283e207d4)
 
-
+please click the link below to know more about one cycle policy.
+https://medium.com/dsnet/the-1-cycle-policy-an-experiment-that-vanished-the-struggle-in-training-neural-nets-184417de23b9
 
 
 
