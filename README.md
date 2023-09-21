@@ -1,4 +1,4 @@
-**Custom-Resent model**
+**Custom-Resent Model**
 
 **Introduction**
 
